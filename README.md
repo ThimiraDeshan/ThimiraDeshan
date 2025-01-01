@@ -62,4 +62,8 @@
 </table>
 </p> 
 
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ThimiraDeshan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
 
